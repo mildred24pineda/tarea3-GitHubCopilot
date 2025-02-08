@@ -10,7 +10,7 @@ Las sugerencias fueron bastante precisas, ya que me ayudaron a identificar error
 ### 3️⃣ Comentarios adicionales  
 Gracias a este ejercicio aprendí a utilizar GitHub para colaborar en proyectos, realizar commits correctamente y responder a comentarios sobre mi código. También entendí la importancia del control de versiones en el desarrollo de software.  
 
-##Antonio Pineda
+##Antony Pineda
 ## 1️ ¿Fue útil?
 Definitivamente, subir el archivo a GitHub resultó muy útil, ya que me permitió almacenar mi código de forma segura, compartirlo fácilmente y recibir comentarios para mejorarlo
 
